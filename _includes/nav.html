@@ -1,16 +1,9 @@
+
+
 <nav>
-  <ul>
-    <li>            
-      <a href="#">Home</a>
-    </li>
-    <li>           
-      <a href="about.html">About Me</a>
-    </li>
-    <li>            
-      <a href="gallery.html">Gallery</a>
-    </li>
-    <li>            
-      <a href="contact.html">Contact</a>
-    </li>
-  </ul>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: blue;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
