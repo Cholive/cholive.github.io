@@ -1,9 +1,13 @@
 - name: Home
+  label: Home
   link: /
 - name: About
+  label: About
   link: /about.html
 - name: Blog
+  label: Blog
   link: /blog.html
 - name: Recipe
+  lable: Recipe
   link: /recipe.html
   

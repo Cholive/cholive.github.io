@@ -1,6 +1,7 @@
 ---
-layout: recipes
-title: "Banana Bread"
+short_name: banana
+name: "Banana Bread"
+position: Bread
 ---
 
 ingredients:

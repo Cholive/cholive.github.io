@@ -8,8 +8,9 @@ title: Recipes
 <ul>
   {% for recipe in site.recipes %}
   <li>
-    <h2><a href="{{ recipes.url }}">{{ recipes.title }}</a></h2>
-    <p>{{ recipes.content | markdownify }}</p>
+    <h2><a href="{{ recipes.url }}">{{ recipes.name }}</a></h2>
+    <h3>{{ recipes.position }}</h3>
+    <p>{{ recipes.content }}</p>
   </li>
   {% endfor %}
 </ul>
