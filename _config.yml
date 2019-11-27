@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-architect
 collections:
   recipes:
-  
+    output: true

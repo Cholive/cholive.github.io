@@ -1,0 +1,15 @@
+---
+layout: default
+title: Recipes
+---
+
+<h1>Recipes</h1>
+
+<ul>
+  {% for recipe in site.recipe %}
+  <li>
+    <h2>{{ recipe.title }}</h2>
+    <p>{{ recipe.content | markdownify }}</p>
+  </li>
+  {% endof %}
+</ul>
