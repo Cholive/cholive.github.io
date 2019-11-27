@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: recipes
 title: "One Minute Muffin"
 ---
 

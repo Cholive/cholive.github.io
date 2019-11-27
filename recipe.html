@@ -6,10 +6,10 @@ title: Recipes
 <h1>Recipes</h1>
 
 <ul>
-  {% for recipe in site.recipe %}
+  {% for recipe in site.recipes %}
   <li>
-    <h2>{{ recipe.title }}</h2>
-    <p>{{ recipe.content | markdownify }}</p>
+    <h2><a href="{{ recipes.url }}">{{ recipes.title }}</a></h2>
+    <p>{{ recipes.content | markdownify }}</p>
   </li>
-  {% endof %}
+  {% endfor %}
 </ul>

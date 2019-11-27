@@ -1,4 +1,4 @@
-I"Ÿ
+I"Ô
 <nav>
   
     <a href="/" style="color: blue;">
@@ -11,6 +11,10 @@
   
     <a href="/blog.html">
       Blog
+    </a>
+  
+    <a href="/recipe.html">
+      Recipe
     </a>
   
 </nav>
