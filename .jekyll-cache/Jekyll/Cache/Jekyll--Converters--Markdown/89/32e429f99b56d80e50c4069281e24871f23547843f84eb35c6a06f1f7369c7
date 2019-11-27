@@ -1,4 +1,4 @@
-I"Ø
+I"é
 <nav>
   
     <a href="/" style="color: blue;">
@@ -19,7 +19,7 @@
   
 </nav>
 
-<p><a href="./another-page.html">Link to another page</a>.</p>
+<p><img id="zero" src="/assets/images/Me.jpg" width="250" alt="Me" /><br /></p>
 
 <footer>
   Design by Kari &copy; 2019

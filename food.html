@@ -12,8 +12,8 @@ title: Recipes
 
 <ul>
   {% for recipe in site.recipes %}
+  <h2>{{ recipe.name }}</h2> 
   <li>
-    <h2>{{ recipe.name }}</h2>    
     <p>{{ recipe.content | markdownify}}</p>
   </li>
   {% endfor %}

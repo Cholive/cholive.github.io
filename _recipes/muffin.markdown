@@ -3,7 +3,7 @@ layout: recipe
 name: "One Minute Muffin"
 ---
 
-ingredients:
+Ingredients:
 - 1⁄4 cup flax seed meal
 - 1⁄2 teaspoon baking powder
 - 1 teaspoon cinnamon
@@ -11,7 +11,7 @@ ingredients:
 - 1 teaspoon oil
 - sugar to taste (or honey, stevia)
 
-directions:
+Directions:
 - Mix all ingredients in a coffee mug.
 - Micorowave for one minute on high.
 
