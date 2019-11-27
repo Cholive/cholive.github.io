@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Definition of a Recipe"
 date: 2019-11-26
 ---
