@@ -13,8 +13,7 @@ title: Recipes
 <ul>
   {% for recipe in site.recipes %}
   <li>
-    <h2>{{ recipe.name }}</h2>
-    <h3>{{ recipe.position }}</h3>
+    <h2>{{ recipe.name }}</h2>    
     <p>{{ recipe.content | markdownify}}</p>
   </li>
   {% endfor %}

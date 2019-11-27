@@ -1,6 +1,6 @@
 ---
-layout: recipes
-title: "Red Berry Tart"
+layout: recipe
+name: "Red Berry Tart"
 ---
 
 directions:

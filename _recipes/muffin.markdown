@@ -1,6 +1,6 @@
 ---
-layout: recipes
-title: "One Minute Muffin"
+layout: recipe
+name: "One Minute Muffin"
 ---
 
 ingredients:
