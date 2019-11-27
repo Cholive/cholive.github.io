@@ -1,0 +1,7 @@
+---
+layout: posts
+title: "The Effects of Massage on your Health"
+date: 2019-07-22
+---
+Massaging stimulates blood circulation in the muscles. This helps against sore legs and a tense back after exercise. A classic massage relaxes the muscles, but also the ligaments and joints. It helps with the hardening of the musculature and with psychological or physical overload, as it can occur, for example, as a result of stress in everyday life. Through a massage in this way, injuries are prevented. Especially athletes who stress their muscles during training benefit from a regular classical massage.
+The classic massage is a massage with a direct effect. The reflexology foot massage for comparison has a reflective effect, while Thai massage can be both direct and indirect. Common is massaging that affects the skin, muscles and connective tissue. The influence takes place through pressure or strain stimuli and has strong effects on body and mind.
