@@ -1,0 +1,23 @@
+---
+layout: default
+title: Recipes
+---
+{% include header.html %}
+{% include nav.html %}
+
+<header>
+		<div class="container">
+				<h1 class="spacing">Recipes</h1>	
+</header>
+
+<ul>
+  {% for recipe in site.recipes %}
+  <li>
+    <h2>{{ recipe.name }}</h2>
+    <h3>{{ recipe.position }}</h3>
+    <p>{{ recipe.content | markdownify}}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+{% include footer.html %}
