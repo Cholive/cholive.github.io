@@ -7,13 +7,13 @@ title: Recipes
 
 <header>
 		<div class="container">
-				<h1 class="spacing">Recipes</h1>	
+				<h1 class="spacing">Recipe Collection</h1>	
 </header>
 
-<ul>
+<ul class="food">
   {% for recipe in site.recipes %}
   <h2>{{ recipe.name }}</h2> 
-  <li>
+  <li class="list">
     <p>{{ recipe.content | markdownify}}</p>
   </li>
   {% endfor %}
