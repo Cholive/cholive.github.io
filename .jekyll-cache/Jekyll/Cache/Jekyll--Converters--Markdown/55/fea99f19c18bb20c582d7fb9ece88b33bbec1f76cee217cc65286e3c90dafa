@@ -1,0 +1,35 @@
+I",
+<nav>
+  
+    <a href="/" style="color: orange;">
+      Home
+    </a>
+  
+    <a href="/about.html">
+      About
+    </a>
+  
+    <a href="/blog.html">
+      Blog
+    </a>
+  
+    <a href="/food.html">
+      Recipe
+    </a>
+  
+</nav>
+
+<p><img id="zero" src="/assets/images/Me.jpg" width="250" alt="Me" /><br /></p>
+
+<p>
+  A Web Developer that enjoys designing the front end.
+</p>
+
+<footer>
+  Design by Kari &copy; 2019
+  <span style="font-size: 1.5em; color:navy;">
+    <i class="fab fa-linkedin"></i>
+    <i class="fab fa-instagram"></i>
+  </span>
+</footer>
+:ET
